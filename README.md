@@ -31,3 +31,8 @@ If you find this Python implementation useful in your work, please consider citi
 
 Auralius Manurung (2023). Fractional Derivative and Integral. GitHub Repository
 Jonathan (2023). Fractional Derivative. MATLAB Central File Exchange
+
+<video controls>
+  <source src="https://github.com/Khurramcoder/Fractional-Calculus/raw/main/Fractional-Calculus/fractional_derivatives_animation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
