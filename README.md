@@ -2,6 +2,14 @@
 # Python Fractional Derivative and Integral
 
 This Python repository provides an implementation of fractional derivative and integral operations based on the work of Auralius Manurung and Jonathan in MATLAB. The code has been converted into Python, with the aim of making these operations accessible to a wider community of Python users.
+![fderiv](https://github.com/Khurramcoder/Fractional-Calculus/assets/130307329/123eee4a-a112-4efa-83ba-38e49eb80d6c)![Figure_ex1](https://github.com/Khurramcoder/Fractional-Calculus/assets/130307329/9d9a9d33-9a10-4d4a-b9ae-fb856cc676ab)
+
+![fint](https://github.com/Khurramcoder/Fractional-Calculus/assets/130307329/fbf171df-fbbf-45a4-9a7a-d880d88fd43e)
+
+
+
+https://github.com/Khurramcoder/Fractional-Calculus/assets/130307329/f4ad0f0a-b4c6-4fd2-94de-501ec9d27238
+
 
 ## Table of Contents
 
