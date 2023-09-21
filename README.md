@@ -31,9 +31,3 @@ If you find this Python implementation useful in your work, please consider citi
 
 Auralius Manurung (2023). Fractional Derivative and Integral. GitHub Repository
 Jonathan (2023). Fractional Derivative. MATLAB Central File Exchange
-
-
-
-
-
-
